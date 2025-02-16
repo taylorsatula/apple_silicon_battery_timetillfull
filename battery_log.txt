@@ -1,0 +1,4 @@
+{"timestamp": "2025-02-16T14:24:31.598718", "capacity": 6128, "voltage": 13135, "external_connected": false} 
+
+
+^^ This will be wiped dynamically when the laptop goes from charging to discharging.
